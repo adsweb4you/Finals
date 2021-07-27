@@ -1,0 +1,173 @@
+.navnav1{
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    width: 76%;
+    margin-left: 13%;
+}
+
+
+.headdiv{
+    margin-left: 26rem;
+}
+.headdiv a {
+    margin-left: 27px;
+    
+}
+.wallpaper {
+    background-color: #490D40;
+    background: url(https://wallpaperaccess.com/full/3970747.jpg) no-repeat center center;
+    background-size: cover;
+    height: 350px;
+    margin-top: -69px;
+}
+
+.textdiv{
+    margin-left: 14%;
+    transform: translateY(230%);
+}
+
+.searchbox{
+    width: 14%;
+    margin-left: 80%;
+    margin-top: 5%;
+}
+.svg1{
+    position: relative;
+    right: 30px;
+    top: 10px;
+}
+.tags{
+    margin-left: 80%;
+    margin-top: 2%;
+}
+.uldiv ul{
+    list-style-type:none;
+    position: relative;
+    right: 30px;
+}
+
+.uldiv a{
+    text-decoration: none;
+    color: grey;
+    margin-top: 5px;
+    
+}
+
+.uldiv li{
+    margin-top: 15px;
+    border-bottom: 1px solid grey;
+    width:69%;
+    padding-bottom: 9px;
+    color: grey;
+   
+}
+
+.right1{
+    margin-left: 39%;
+}
+.right2{
+    margin-left: 13%;
+}
+.right3{
+    margin-left: 23%;
+}
+
+.right4{
+    margin-left: 19%;
+}
+.archives{
+    margin-top: 25%;
+}
+.archives ul{
+list-style-type: none;
+ margin-top: 10px;
+}
+.archives a{
+    text-decoration:none;
+    color: grey;
+    
+}
+.archives li {
+    margin-top: 10px;
+    position: relative;
+    right: 30px;
+    border: 1px solid grey;
+    width: 69% ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.arrow1{
+    margin-left: 25%;
+}
+
+.arrow2{
+    margin-left: 13%;
+}
+
+.arrow3{
+    margin-left: 11%;
+}
+
+.arrow4{
+    margin-left: 20%;
+}
+.tagdiv{
+    margin-left: 80%;
+    margin-top: 5%;
+}
+
+.col31{
+ 
+    border: 1px solid grey;
+    text-align: center;
+    padding: 8px;
+}
+.col32{
+    margin-left: 20px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 8px;
+}
+.col33{
+    margin-top: 10px;
+    width: 50%;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 8px;
+}
+.col34{
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 8px;
+}
+.sidebarsection{
+    position: relative;
+    bottom: 62.5rem;;
+    
+}
+.midimage{
+    position: relative;
+    left: 13%;
+    top: 5rem;
+}
+
+.blogtext{
+    margin-left: 17%;
+    margin-top: 7%;
+}
+.bordertextdiv{
+    margin-top: 35px;
+    border-left: 3px solid grey;
+    padding-left: 10px;
+}
+.bordertextdiv p{
+color: grey;
+font-style: italic;
+}
+.bellowtext{
+    margin-top: 30px;
+}

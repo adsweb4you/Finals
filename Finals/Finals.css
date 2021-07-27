@@ -1,0 +1,308 @@
+.container2{
+    background-color: #efefef;
+    height: 1000px;
+}
+
+.navnav1{
+     
+    border-bottom: 1px solid black;
+    width: 76%;
+    margin-left: 13%;
+}
+ 
+
+ 
+.headdiv a {
+    margin-left: 27px;
+    color: black;
+}
+
+.middle{
+    background-image: url('https://i.redd.it/4lxl9x5ifsh61.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px; 
+}
+.btn1{
+  padding: 5px 5px 5px;
+  
+}
+.textdiv{
+    margin-left: 22.2%;
+ 
+    transform: translateY(240%);
+}
+
+.hrdiv{
+    width: 70%;
+    transform: translateX(23%);
+    color: black;
+    
+}
+
+.infodiv{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #efefef;
+}
+
+.hrdiv1{
+    width: 80%;
+    position: relative;
+    top: 77%;
+    left: 10%;
+    color: black;
+}
+.hrdiv0{
+    background-color: #efefef;
+}
+
+
+
+.span1 hr{
+    width: 30%;
+    position: relative;
+    left: 14%;
+}
+
+.spanp {
+    margin-left: 45%;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+.span2 hr{
+    width: 30%;
+    position: relative;
+    left: 51%;
+    bottom: 57px;
+}
+
+.contdiv1{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    height: 200px;
+}
+.contdiv1 p{
+margin-top: 30px;
+}
+.contdiv1 h5{
+    margin-top: 25px;
+    }
+.contdiv1 svg{
+ width: 50px;
+ height: 40px;
+ position: relative;
+ bottom: 19px;
+ right: 4px;
+ border: 5px 5px solid white;
+ border-radius: 15px;
+ background-color: white;
+}
+
+.numberdiv{
+    background-color: #efefef;
+    text-align: center;
+    width: 80%;
+    height: 120px;
+    margin-left:10%;
+    margin-top: 25px;
+}
+.coldiv1{
+    margin-top: 35px;
+}
+
+.middlediv2{
+    margin-top: 60px;
+}
+.middlediv1{
+    margin-top: 60px;
+}
+.categorybtnlinks{
+    display: flex;
+    justify-content: center;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+.categorybtnlinks button{
+    margin: 2px;
+    background-color: white;
+    border:1px solid;
+    
+}
+.categorybtnlinks button:focus{
+    border: 2px solid black;
+}
+.lower-container{
+    margin-top: 25px;
+}
+.spanp3 {
+    margin-left: 46%;
+    position: relative;
+    bottom: 30px;
+    
+}
+.middlediv3{
+    margin-top: 60px;
+    background-color: #efefef;
+    
+}
+.spanlowerdiv{
+    position: relative;
+    top: 30px;
+}
+
+.spanp4 {
+    margin-left: 44%;
+    position: relative;
+    bottom: 30px;
+    
+}
+.middlediv4{
+    margin-top: 60px;
+    
+    
+}
+.spanlowerdiv2{
+    position: relative;
+    top: 20px;
+}
+
+.span5 hr{
+    width: 30%;
+    position: relative;
+    left: 53%;
+    bottom: 57px;
+}
+
+.span4 hr{
+    width: 30%;
+    position: relative;
+    left: 12%;
+}
+
+#message{
+    width: 600px;
+    height: 150px;
+    border-right: hidden;
+    border-top: hidden;
+    border-left: hidden;
+    border-bottom: 2px solid;
+    border-radius: 5px;
+    
+}
+
+.inputs{
+    border-right: hidden;
+    border-top: hidden;
+    border-left: hidden;
+    border-bottom: 2px solid;
+    width: 400px;
+}
+.forms{
+    margin-top: 30px;
+}
+
+.contdiv2{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    height: 220px;
+}
+
+.contdiv2 p{
+    margin-top: 30px;
+    }
+    .contdiv2 h5{
+        margin-top: 25px;
+        }
+    .contdiv2 svg{
+     width: 50px;
+     height: 40px;
+     position: relative;
+     bottom: 19px;
+     right: 4px;
+     border: 5px 5px solid white;
+     border-radius: 15px;
+     background-color: white;
+    }
+    .lowerbtn{
+        width: 15%;
+        margin-left: 35%;
+        margin-top: 5%;
+        padding: 5px 5px 5px;
+        background-color: white;
+    }
+
+    .blogcontainer{
+        height: 400px;
+        width: 90%;
+    }
+
+    .blogtext1{
+        border: 1px solid hidden;
+        background-color: white;
+        width: 55%;
+        padding: 10px;
+        text-align: start;
+        position: relative;
+        left: 39%;
+        bottom: 49%;
+    }
+    .blogtext1 button{
+        border: hidden;
+        background-color: white;
+        margin-right: 55%;
+    }
+    .readmore1{
+        margin-left: 43%;
+        margin-bottom: 2%;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    #textarea1{
+        margin-top: 20px;
+        margin-left: 13px;
+        width: 81%;
+        border-top: hidden;
+        border-left:hidden;
+        border-right: hidden;    
+        border-radius: 5px;
+    }
+    .inputs{
+        margin-top: 20px;
+        border-top: hidden;
+        border-left:hidden;
+        border-right: hidden;    
+        border-radius: 5px;
+    }
+    .Sendbtn{
+        width: 15%;
+        margin-left: 40%;
+        margin-top: 8%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        background-color: white;
+    }
+    .formdiv{
+        margin-left: 5%;
+    }
+    .footerdiv{
+        background-color: #efefef;
+        height: 100px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    footer{
+        margin-top: 30px;
+    }
+    .readmore1 a{
+        text-decoration: none;
+        color: grey;
+    }
